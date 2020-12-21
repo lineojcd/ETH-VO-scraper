@@ -13,6 +13,8 @@ Install with:
 Download the file [here](https://gitlab.ethz.ch/tgeorg/vo-scraper/raw/master/vo-scraper.py?inline=false) and run with
 
     python3 vo-scraper.py
+    or like this:
+    python3 vo-scraper.py https://video.ethz.ch/lectures/d-mavt/2020/autumn/151-0632-00L/622d4c05-cc5c-48bd-b526-04dc474609b5.html
 
 # FAQ
 
