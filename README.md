@@ -204,3 +204,5 @@ In both cases we get back a cookie which we then can include when requesting the
 ***
 
 Loosely based on https://gitlab.ethz.ch/dominik/infk-vorlesungsscraper
+
+Please check here: https://gitlab.ethz.ch/tgeorg/vo-scraper/-/tree/master for newest updates.
